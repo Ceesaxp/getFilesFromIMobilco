@@ -1,8 +1,8 @@
 This is a simple bourne shell script to pull files off your iMobilco store.
 
-# (Possible) Ideas for future
+h1. (Possible) Ideas for future
 
-* Store login credentials elsewhere
-* More error checking and (possibly) mounting of destination drive
-* Login to iMobilco, check if new downloadable files are present and then fetch them.
-* "Smart" sorting of downloaded data
+ * Store login credentials elsewhere
+ * More error checking and (possibly) mounting of destination drive
+ * Login to iMobilco, check if new downloadable files are present and then fetch them.
+ * "Smart" sorting of downloaded data
